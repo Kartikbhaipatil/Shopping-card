@@ -20,3 +20,8 @@ Features
 2. Article (Add/Update/Remove/Search/Article wise comment)
 3. Author (Register/Login/Logout)
 4. Comment (Add/Update/Remove)
+Authorization
+1. Category -> Needs to be authenticated for add/update/remove
+2. Article -> Needs to be authenticated for add/update/remove
+3. Author -> Needs to be authenticated for details/logout
+ 4. Comment -> Needs to be authenticated for add/update/remove 
